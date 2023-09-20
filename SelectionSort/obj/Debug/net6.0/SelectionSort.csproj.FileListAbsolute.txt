@@ -1,0 +1,15 @@
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/SelectionSort
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/SelectionSort.deps.json
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/SelectionSort.runtimeconfig.json
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/SelectionSort.dll
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/ref/SelectionSort.dll
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/bin/Debug/net6.0/SelectionSort.pdb
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.AssemblyInfo.cs
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.dll
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/ref/SelectionSort.dll
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.pdb
+/home/susruth/Documents/Programming/C#/DataStructuresAndAlgorithms/SelectionSort/obj/Debug/net6.0/SelectionSort.genruntimeconfig.cache
